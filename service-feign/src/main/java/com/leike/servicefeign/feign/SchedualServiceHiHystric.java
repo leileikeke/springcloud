@@ -1,4 +1,4 @@
-package com.leike.sericefeign.feign;
+package com.leike.servicefeign.feign;
 
 import org.springframework.stereotype.Component;
 
